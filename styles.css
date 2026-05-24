@@ -97,7 +97,7 @@ body {
   color: var(--secondary-text-color);
   text-decoration: none;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
 }
 
 .contact-info__item:not(:last-child) {
@@ -131,7 +131,7 @@ body {
 
 .intro {
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
 }
 
 .intro__icon-wrapper {
@@ -193,7 +193,7 @@ body {
 }
 
 .experiences__company-project {
-  margin-left: 15px;
+  margin-top: 15px;
   margin-bottom: 25px;
 }
 
